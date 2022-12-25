@@ -2,7 +2,6 @@ New Fivem script maker application.
 
 First month free.
 
-
 Life time - 20$
 
 1 Year - 15$
